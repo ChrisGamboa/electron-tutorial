@@ -50,7 +50,7 @@ module.exports = {
           name: 'electron-tutorial'
         },
         prerelease: false,
-        draft: true
+        draft: false
       }
     }
   ]
